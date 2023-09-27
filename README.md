@@ -5,4 +5,4 @@
 ## Sobre mi
 
 - 💻 Desarrollador de aplicaciones
-- 👨‍💻 Principante en HTML y CSS
+- 👨‍💻 Trabajo en React y Next.js
