@@ -11,7 +11,7 @@ I am an enthusiast to AI. I'm proud of being ex-moderator of the most [largest c
 </a>
 
 ### My socials:
-<a href="https://skillicons.dev">
+<a href="https://discord.com/users/1033424130109866134">
   <img src="https://skillicons.dev/icons?i=discord" />
   <link href="https://discord.com/users/1033424130109866134">
 </a>
