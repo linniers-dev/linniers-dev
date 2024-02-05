@@ -1,8 +1,1 @@
-<div align="center">
-  <h1 align="center">Hola, soy Linniers!👋</h1>
-</div>
-
-## Sobre mi
-
-- 💻 Desarrollador de aplicaciones
-- 👨‍💻 Trabajo en React y Next.js
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
