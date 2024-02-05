@@ -1,2 +1,5 @@
-![Linniers-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=linniers-dev&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linniers-dev&layout=compact&theme=dark)]([https://github.com/linniers-dev/linniers-dev)
+## 👋🏻 Hello, I'm Linniers. 
+
+<a href="https://github-readme-stats.vercel.app/api?username=linniers-dev-tk&show_icons=true&theme=dark#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=linniers-dev-tk&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
