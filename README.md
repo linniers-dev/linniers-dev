@@ -7,14 +7,14 @@ I am an enthusiast to AI. I'm proud of being ex-moderator of the most [largest c
 
 I'm trying to explore other programming languages, to expand more my portafolio 😻👨‍💻
 
+<span class="bg-gradient-radial bg-clip-text text-transparent">
+  Applio
+</span>
+
 ### My main skills:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,python,nextjs,html,css" />
 </a>
-
-<span className="bg-gradient-radial text-transparent bg-clip-text">
-        Applio
-</span>
 
 ### My socials:
 <a href="https://discord.com/users/1033424130109866134">
