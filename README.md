@@ -15,9 +15,10 @@ I'm trying to explore other programming languages, to expand more my portafolio 
 ### My socials:
 <a href="https://discord.com/users/1033424130109866134">
   <img src="https://skillicons.dev/icons?i=discord" />
-  <link href="https://discord.com/users/1033424130109866134">
 </a>
 <a href="https://twitter.com/SoProMaxing">
   <img src="https://skillicons.dev/icons?i=twitter" />
-  <link href="https://discord.com/users/1033424130109866134">
+</a>
+<a href="https://www.youtube.com/channel/UCGPgXSkgWYkkaZ3yTMtfmrA">
+  <img src="https://skillicons.dev/icons?i=youtube" />
 </a>
