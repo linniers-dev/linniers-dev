@@ -12,6 +12,10 @@ I'm trying to explore other programming languages, to expand more my portafolio 
   <img src="https://skillicons.dev/icons?i=js,python,nextjs,html,css" />
 </a>
 
+<span className="bg-gradient-radial text-transparent bg-clip-text">
+        Applio
+</span>
+
 ### My socials:
 <a href="https://discord.com/users/1033424130109866134">
   <img src="https://skillicons.dev/icons?i=discord" />
