@@ -1,11 +1,11 @@
 ## 👋🏻 Hello, I'm Linniers.
-I am an enthusiast to AI. I'm proud of being ex-moderator of the most [largest community focused on artificial intelligence](https://discord.gg/IAHispano).
+I am an enthusiast to AI. I'm proud of being an ex-moderator of the most [largest community focused on artificial intelligence](https://discord.gg/IAHispano).
 
 <a href="https://github-readme-stats.vercel.app/api?username=linniers-dev&show_icons=true&theme=dark#gh-dark-mode-only" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=linniers-dev&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 
-I'm trying to explore other programming languages, to expand more my portafolio 😻👨‍💻
+I'm trying to explore other programming languages, to expand more my portfolio 😻👨‍💻
 
 <span class="bg-gradient-radial bg-clip-text text-transparent">
   Applio
