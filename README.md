@@ -1,6 +1,8 @@
 ## 👋🏻 Hello, I'm Linniers.
 I am an enthusiast to AI. I'm proud of being an ex-moderator of the most [largest community focused on artificial intelligence](https://discord.gg/IAHispano).
 
+<img align="right" height="150" src="https://giphy.com/gifs/wtf-big-eyes-whaaaat-8UUWePMnXtpsw12pfd"  />
+
 <a href="https://github-readme-stats.vercel.app/api?username=linniers-dev&show_icons=true&theme=dark#gh-dark-mode-only" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=linniers-dev&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
